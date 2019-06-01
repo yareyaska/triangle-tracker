@@ -1,13 +1,21 @@
 body{
 	font-family: sans-serif;
-	background-color: green;
 	background-image: url("https://cdn.pixabay.com/photo/2018/06/30/09/31/background-image-3507320__340.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	color: #fff;
 	font-size: 27px;
-	
 
 
+
+}
+.do{
+
+	text-align: center;
+	border: 5px solid green;
+	background-color: #f4f4f4;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+	border-radius: 10px;
 }
 
